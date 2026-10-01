@@ -1,9 +1,9 @@
 # Proyecto: rediseño web
 
 <!-- Rellena estos 3 datos al empezar. Los demás los actualiza Claude solo. -->
-Cliente: Pejiguera Smash
-Web original: https://pejiguera-smash-template.netlify.app/
-Permiso del propietario: pendiente
+Cliente: VH VISION
+Web original: https://www.hbvisionoptica.com/
+Permiso del propietario: confirmado
 <!-- Cuando confirmes que la web es tuya o tienes permiso, cambia a: confirmado -->
 
 Fase actual: 1
