@@ -1,0 +1,6 @@
+node_modules/
+.env
+.env.*
+.claude/settings.local.json
+docs/capturas/
+.DS_Store

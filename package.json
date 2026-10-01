@@ -1,0 +1,15 @@
+{
+  "name": "rediseno-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "descargar": "node .claude/skills/rediseno-web/scripts/descargar.mjs",
+    "verificar": "node .claude/skills/rediseno-web/scripts/verificar.mjs index.html",
+    "optimizar": "node .claude/skills/rediseno-web/scripts/optimizar.mjs",
+    "ver": "npx serve ."
+  },
+  "devDependencies": {
+    "playwright": "^1.47.0",
+    "sharp": "^0.33.5"
+  }
+}
