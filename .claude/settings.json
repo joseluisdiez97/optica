@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": ["Bash(node:*)", "Bash(npx:*)", "Bash(npm:*)", "Bash(git add:*)", "Bash(git commit:*)"],
-    "ask":   ["Bash(git push:*)", "Bash(netlify:*)", "Bash(vercel:*)", "Bash(rm -rf:*)"],
-    "deny":  ["Read(.env*)"]
-  }
-}
